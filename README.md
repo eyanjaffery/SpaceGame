@@ -1,6 +1,8 @@
 # SpaceGame
 Project Description
 SpaceGame is a Java-based space game where players control a space ship, dodge obstacles, shoot projectiles, and earn points.
+<img width="376" alt="Screenshot 2024-04-21 at 8 17 28 PM" src="https://github.com/eyanjaffery/SpaceGame/assets/124312130/1433cd0c-f95b-46de-83fd-c38cf3928bf8">
+
 
 Features
 Player Control: Move the space ship left and right using the arrow keys.
