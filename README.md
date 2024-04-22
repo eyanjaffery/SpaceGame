@@ -41,9 +41,8 @@ SpaceGame is a Java-based space game where players control a space ship, dodge o
 
 ## Contributors
 
-- [Your Name]
-- [Other contributors, if any]
+- Eyan Jaffery
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
+
