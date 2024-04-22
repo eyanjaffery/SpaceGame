@@ -30,7 +30,6 @@ Dependencies
 Java Development Kit (JDK)
 Java Swing library
 Java Sound library (for playing sound effects)
+
 Contributor
 Eyan Jaffery
-License
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
